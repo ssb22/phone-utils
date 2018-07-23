@@ -1,4 +1,4 @@
-# timer-adjust.py version 1.1 (c) 2011 Silas S. Brown.  License: GPL
+# timer-adjust.py version 1.1, Silas S. Brown 2011, Public Domain
 
 # Requires Python to be installed on the phone (see Gradint page).
 
@@ -15,7 +15,8 @@
 # Note however that this call timer does NOT support the "minimum call
 # lengths" that networks are increasingly using (e.g. a call less than 30
 # seconds counts as 30 seconds) - you need wm6minutecount for that,
-# which requires a touchscreen phone (otherwise installs but won't display).
+# which requires a touchscreen phone (otherwise installs but won't display),
+# or use my later script SBminutes.py.
 # This script can help set up the correct registry entries for wm6minutecount
 # after you have installed it.
 

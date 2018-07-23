@@ -1,4 +1,4 @@
-# SBMinutes version 1.2 (c) 2011-2013,2015 Silas S. Brown.  License: GPL
+# SBMinutes version 1.2, Silas S. Brown 2011-2013,2015, Public Domain
 
 # Requires Python to be installed on the phone (see Gradint page).
 
