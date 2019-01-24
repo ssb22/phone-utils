@@ -1,6 +1,6 @@
 # Update index.html from \Windows\Favorites
 # (for IE 6 on Windows Mobile 6)
-# Silas S. Brown - public domain
+# Silas S. Brown - public domain - no warranty
 
 # This is so you can set your MSIE start page to
 # file://\Windows\Favorites\index.html

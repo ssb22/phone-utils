@@ -1,4 +1,4 @@
-# timer-adjust.py version 1.1, Silas S. Brown 2011, Public Domain
+# timer-adjust.py version 1.1, Silas S. Brown 2011, Public Domain, no warranty
 
 # Requires Python to be installed on the phone (see Gradint page).
 
