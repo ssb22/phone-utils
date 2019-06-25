@@ -1,4 +1,5 @@
 #!/bin/bash
+git pull --no-edit
 wget -N http://people.ds.cam.ac.uk/ssb22/gradint/wm65favs.py
 wget -N http://people.ds.cam.ac.uk/ssb22/gradint/timer-adjust.py
 wget -N http://people.ds.cam.ac.uk/ssb22/gradint/SBminutes.py
