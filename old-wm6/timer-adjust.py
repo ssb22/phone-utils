@@ -1,6 +1,7 @@
 # timer-adjust.py version 1.1, Silas S. Brown 2011, Public Domain, no warranty
 
 # Requires Python to be installed on the phone (see Gradint page).
+# This is Python 2 code; Python 3 was not available for WM phones.
 
 # This is a Python script to adjust the built-in outgoing call timer
 # on no-touchscreen Windows Mobile phones, configure the
