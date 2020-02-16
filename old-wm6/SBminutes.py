@@ -1,6 +1,7 @@
 # SBMinutes version 1.2, Silas S. Brown 2011-2013,2015, Public Domain, no warranty
 
 # Requires Python to be installed on the phone (see Gradint page).
+# This is Python 2 code; Python 3 was not available for WM phones.
 
 # Checks call logs and calculates outgoing usage,
 # accounting for minimum call times (unlike WM-Smartphone's built-in counter)

@@ -2,6 +2,9 @@
 # (for IE 6 on Windows Mobile 6)
 # Silas S. Brown - public domain - no warranty
 
+# In theory this code is compatible with both Python 2 and
+# Python 3, but Python 3 was not available for WM phones.
+
 # This is so you can set your MSIE start page to
 # file://\Windows\Favorites\index.html
 # to save having to tap twice to get them.
