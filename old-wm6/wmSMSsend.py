@@ -1,6 +1,11 @@
 # Python 2 code to send SMS message programatically on Windows Mobile (2003SE/5/6/6.5)
 # Silas S. Brown - public domain
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/wm6-utils
+# and on GitLab at https://gitlab.com/ssb22/wm6-utils
+# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
+
 def send_SMS_message(number, unicode_text, delivery_confirmation=1):
   print "Sending to "+number+"..."
   handle = wintypes.DWORD()

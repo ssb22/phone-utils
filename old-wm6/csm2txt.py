@@ -4,6 +4,11 @@
 # v1.1 Silas S. Brown 2018-2019
 # public domain - no warranty
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/wm6-utils
+# and on GitLab at https://gitlab.com/ssb22/wm6-utils
+# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
+
 indent = 16
 
 ignore = [

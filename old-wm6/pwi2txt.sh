@@ -5,6 +5,11 @@
 
 # Silas S. Brown 2018 - public domain - no warranty
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/wm6-utils
+# and on GitLab at https://gitlab.com/ssb22/wm6-utils
+# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
+
 for N in *.pwi ; do
     export T="$(echo "$N"|sed -e s/\.[^.]*$/.txt/)"
     if test -e "$T"; then

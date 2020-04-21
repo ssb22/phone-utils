@@ -41,6 +41,11 @@ known_usage = None
 # you if you're "ahead" or "behind" with your minutes.
 avoid_usage = None
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/wm6-utils
+# and on GitLab at https://gitlab.com/ssb22/wm6-utils
+# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
+
 # ----------------------------------------------------------------------
 
 import ctypes, math

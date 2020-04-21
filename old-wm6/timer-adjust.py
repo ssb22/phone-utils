@@ -34,6 +34,11 @@
 # different.  But "% uptime" should still be useful.  If you do start
 # the logger, then to completely stop it you sometimes have to switch off.
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/wm6-utils
+# and on GitLab at https://gitlab.com/ssb22/wm6-utils
+# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
+
 import ctypes
 HKEY_LOCAL_MACHINE = ctypes.c_long(0x80000002)
 HKEY_CURRENT_USER  = ctypes.c_long(0x80000001)

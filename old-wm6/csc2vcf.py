@@ -9,6 +9,11 @@
 # update is likely to create new ones and Link them.
 # Not sure there's any way to say "delete all old versions of all these" apart from delete all & start again (which would clear non-phone contacts)
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/wm6-utils
+# and on GitLab at https://gitlab.com/ssb22/wm6-utils
+# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
+
 infile  = "contacts.csc"
 outfile = "contacts.vcf"
 

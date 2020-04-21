@@ -26,6 +26,11 @@
 # (set it to file://\Windows\Favorites\index.html )
 # but I haven't checked this on all devices.
 
+# Where to find history:
+# on GitHub at https://github.com/ssb22/wm6-utils
+# and on GitLab at https://gitlab.com/ssb22/wm6-utils
+# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
+
 import os
 out = open("\\Windows\\Favorites\\index.html","w")
 out.write('<html><head><meta name="mobileoptimized" content="0"><meta name="viewport" content="width=device-width"></head><body><h1>Bookmarks</h1>') # heading helps because top part of page might be obscured on first load
