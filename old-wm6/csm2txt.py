@@ -8,6 +8,8 @@
 # on GitHub at https://github.com/ssb22/wm6-utils
 # and on GitLab at https://gitlab.com/ssb22/wm6-utils
 # and on BitBucket https://bitbucket.org/ssb22/wm6-utils
+# and at https://gitlab.developers.cam.ac.uk/ssb22/wm6-utils
+# and in China: https://gitee.com/ssb22/wm6-utils
 
 indent = 16
 
