@@ -6,7 +6,7 @@
 # and on GitLab at https://gitlab.com/ssb22/wm6-utils
 # and on BitBucket https://bitbucket.org/ssb22/wm6-utils
 # and at https://gitlab.developers.cam.ac.uk/ssb22/wm6-utils
-# and in China: git clone https://gitee.com/ssb22/wm6-utils
+# and in China: https://gitee.com/ssb22/wm6-utils
 
 def send_SMS_message(number, unicode_text, delivery_confirmation=1):
   print "Sending to "+number+"..."
