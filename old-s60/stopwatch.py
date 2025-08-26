@@ -5,11 +5,11 @@
 # (I can't get appuifw's font commands to work on my device.)
 
 # Where to find history:
-# on GitHub at https://github.com/ssb22/s60-utils
-# and on GitLab at https://gitlab.com/ssb22/s60-utils
-# and on BitBucket https://bitbucket.org/ssb22/s60-utils
-# and at https://gitlab.developers.cam.ac.uk/ssb22/s60-utils
-# and in China: https://gitee.com/ssb22/s60-utils
+# on GitHub at https://github.com/ssb22/phone-utils
+# and on GitLab at https://gitlab.com/ssb22/phone-utils
+# and on BitBucket https://bitbucket.org/ssb22/phone-utils
+# and at https://gitlab.developers.cam.ac.uk/ssb22/phone-utils
+# and in China: https://gitee.com/ssb22/phone-utils
 
 import appuifw, e32, time, keycapture, key_codes
 

@@ -10,11 +10,11 @@
 # Not sure there's any way to say "delete all old versions of all these" apart from delete all & start again (which would clear non-phone contacts)
 
 # Where to find history:
-# on GitHub at https://github.com/ssb22/wm6-utils
-# and on GitLab at https://gitlab.com/ssb22/wm6-utils
-# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
-# and at https://gitlab.developers.cam.ac.uk/ssb22/wm6-utils
-# and in China: https://gitee.com/ssb22/wm6-utils
+# on GitHub at https://github.com/ssb22/phone-utils
+# and on GitLab at https://gitlab.com/ssb22/phone-utils
+# and on BitBucket https://bitbucket.org/ssb22/phone-utils
+# and at https://gitlab.developers.cam.ac.uk/ssb22/phone-utils
+# and in China: https://gitee.com/ssb22/phone-utils
 
 infile  = "contacts.csc"
 outfile = "contacts.vcf"

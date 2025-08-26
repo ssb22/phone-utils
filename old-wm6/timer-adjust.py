@@ -35,11 +35,11 @@
 # the logger, then to completely stop it you sometimes have to switch off.
 
 # Where to find history:
-# on GitHub at https://github.com/ssb22/wm6-utils
-# and on GitLab at https://gitlab.com/ssb22/wm6-utils
-# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
-# and at https://gitlab.developers.cam.ac.uk/ssb22/wm6-utils
-# and in China: https://gitee.com/ssb22/wm6-utils
+# on GitHub at https://github.com/ssb22/phone-utils
+# and on GitLab at https://gitlab.com/ssb22/phone-utils
+# and on BitBucket https://bitbucket.org/ssb22/phone-utils
+# and at https://gitlab.developers.cam.ac.uk/ssb22/phone-utils
+# and in China: https://gitee.com/ssb22/phone-utils
 
 import ctypes
 HKEY_LOCAL_MACHINE = ctypes.c_long(0x80000002)

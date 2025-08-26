@@ -1,0 +1,16 @@
+
+# S60 contacts restore - Silas S. Brown 2010 - Public Domain - no warranty
+
+# Where to find history:
+# on GitHub at https://github.com/ssb22/phone-utils
+# and on GitLab at https://gitlab.com/ssb22/phone-utils
+# and on BitBucket https://bitbucket.org/ssb22/phone-utils
+# and at https://gitlab.developers.cam.ac.uk/ssb22/phone-utils
+# and in China: https://gitee.com/ssb22/phone-utils
+
+file_to_read = r"E:\contacts-backup.txt"
+
+import contacts
+print "Reading",file_to_read
+contacts.open().import_vcards(open(file_to_read).read())
+print "Done"

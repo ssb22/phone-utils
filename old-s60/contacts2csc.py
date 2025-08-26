@@ -4,11 +4,11 @@
 # This script is ASCII-only for now; PIM Backup can also take UTF-16.
 
 # Where to find history:
-# on GitHub at https://github.com/ssb22/s60-utils
-# and on GitLab at https://gitlab.com/ssb22/s60-utils
-# and on BitBucket https://bitbucket.org/ssb22/s60-utils
-# and at https://gitlab.developers.cam.ac.uk/ssb22/s60-utils
-# and in China: https://gitee.com/ssb22/s60-utils
+# on GitHub at https://github.com/ssb22/phone-utils
+# and on GitLab at https://gitlab.com/ssb22/phone-utils
+# and on BitBucket https://bitbucket.org/ssb22/phone-utils
+# and at https://gitlab.developers.cam.ac.uk/ssb22/phone-utils
+# and in China: https://gitee.com/ssb22/phone-utils
 
 file_to_write = r"E:\contacts.csc"
 
