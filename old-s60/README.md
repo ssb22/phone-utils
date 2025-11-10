@@ -1,5 +1,5 @@
-# s60-utils
-Python utilities for old Nokia/Symbian S60 phones, from http://ssb22.user.srcf.net/s60/
+# Python utilities for old Nokia/Symbian S60 phones
+from http://ssb22.user.srcf.net/s60/
 (also mirrored at http://ssb22.gitlab.io/s60/ just in case)
 
 You will need Python on the phone: install [PyS60](https://garage.maemo.org/frs/download.php/5952/Python_1.9.4.sis) and [ScriptShell](https://garage.maemo.org/frs/download.php/5910/PythonScriptShell_1.9.4_3rdEd.sis) (those links are for 3rd edition phones; for other editions google it).  You can put Python on one of the default softkeys to launch it faster (on my device the control for this is located in Menu / Settings / Phone / General / Personalization / Standby mode / Shortcuts).
