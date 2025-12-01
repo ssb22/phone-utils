@@ -1,7 +1,7 @@
 # Python utilities for old Windows Mobile 6 phones
-from http://ssb22.user.srcf.net/wm/61notes.html and http://ssb22.user.srcf.net/s60/ etc
+from https://ssb22.user.srcf.net/wm/61notes.html and https://ssb22.user.srcf.net/s60/ etc
 
-(the above two pages are also mirrored at http://ssb22.gitlab.io/wm/61notes.html and http://ssb22.gitlab.io/s60/ just in case)
+(the above two pages are also mirrored at https://ssb22.gitlab.io/wm/61notes.html and https://ssb22.gitlab.io/s60/ just in case)
 
 * [csc2vcf](csc2vcf.py) for copying WM6 PIM Backup contacts lists to Android or S60
 * [csm2txt](csm2txt.py) for formatting WM6 PIM Backup message dumps
