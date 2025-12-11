@@ -6,11 +6,11 @@
 # Silas S. Brown 2018,2022 - public domain - no warranty
 
 # Where to find history:
-# on GitHub at https://github.com/ssb22/wm6-utils
-# and on GitLab at https://gitlab.com/ssb22/wm6-utils
-# and on BitBucket https://bitbucket.org/ssb22/wm6-utils
-# and at https://gitlab.developers.cam.ac.uk/ssb22/wm6-utils
-# and in China: https://gitee.com/ssb22/wm6-utils
+# on GitHub at https://github.com/ssb22/phone-utils
+# and on GitLab at https://gitlab.com/ssb22/phone-utils
+# and on BitBucket https://bitbucket.org/ssb22/phone-utils
+# and at https://gitlab.developers.cam.ac.uk/ssb22/phone-utils
+# and in China: https://gitee.com/ssb22/phone-utils
 
 for N in *.pwi ; do
     T="$(echo "$N"|sed -e s/\.[^.]*$/.txt/)"
