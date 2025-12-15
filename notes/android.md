@@ -144,6 +144,7 @@ Huawei is a trademark of Huawei Technologies Co., Ltd registered in China and ot
 iPhone is a trademark of Apple in some countries.
 Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.
 Mac is a trademark of Apple Inc.
+microSD is a trademark of SD-3C, LLC.
 Microsoft is a registered trademark of Microsoft Corp.
 QR Code is the UK registered trademark of Denso Corporation.
 Samsung is a registered trademark of Samsung.
