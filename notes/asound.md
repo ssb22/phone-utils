@@ -25,6 +25,7 @@ If you record OGG (MP3 encoding is a paid add-on but OGG is provided), the defau
 * Decibel readout during recording (might be useful for making noise complaints?)
 
 Cons:
+* **No longer works on recent Android** (e.g. Android 14: it crashes when Record is pressed). If you need a decibel meter, separate apps are available but are approximate due to phone microphones typically picking up only mid-range frequencies (unsuitable for measuring the effectiveness of insulation against heavy traffic for example)
 * Closed source
 * Small controls
 * Switching off the screen during recording results in the app being backgrounded, which makes pause/stop take longer later
