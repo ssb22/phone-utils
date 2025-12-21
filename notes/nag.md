@@ -14,11 +14,11 @@ The first thing to realise is that any “stars control” is deceptive. If you 
 Here is an example of what *really* happens, taken from the source code of MAPS.ME on Android. (There are forks that remove the annoyances, but it’s still instructive to consider the original source: many other apps use the same idea.)
 ```
 if (rating >= BuildConfig.RATING_THRESHOLD)
- {
-   Config.setRatingApplied(RateStoreDialogFragment.class);
-   dismiss();
-   Utils.openAppInMarket(getActivity(), BuildConfig.REVIEW_URL);
- }
+{
+  Config.setRatingApplied(RateStoreDialogFragment.class);
+  dismiss();
+  Utils.openAppInMarket(getActivity(), BuildConfig.REVIEW_URL);
+}
 ```
 In other words, if the user taps a rating that the developers consider to be high enough, it opens the Android Market (later renamed to Play Store because we’re all children apparently), and points it at the page where the user can *repeat* their rating. It also remembers that you have “given it a rating” so it won’t ask again. There’s also an `else` branch of the code that pops up more stuff if the user “gives” a rating that’s too low.
 
@@ -27,7 +27,7 @@ But the main point is, whatever you tap on that box *does not actually publish a
 2. It will then open the Play Store to let you rate it “for real”. At this point, just quit out of the Play Store if you don’t *really* want to rate it. The app itself won’t ‘know’ that you didn’t really do it.
 
 Is it dishonesty on my part to tell an app I will rate it 5 stars and then not actually do it? I don’t think so, because:
-* The exact words of the instruction printed at the top of that box (in the version of the code I looked at) are “Tap a star to rate our app.” It doesn’t say “Tap a star to promise us what you are going to say on the Google Play Store”. Having seen the source code, I now know that this is what they *meant* , but it’s not what they *said*. I can in good conscience give them a *private* rating, which they can, if they like, collect via their own internal anonymous feedback system (if not now, then in a future version of the app)—and my choosing to answer them privately is not the same as agreeing to give that answer in public. It’s like going into the supermarket and having this conversation with the manager:
+* The exact words of the instruction printed at the top of that box (in the version of the code I looked at) are “Tap a star to rate our app.” It doesn’t say “Tap a star to promise us what you are going to say on the Google Play Store”. Having seen the source code, I now know that this is what they *meant*, but it’s not what they *said*. I can in good conscience give them a *private* rating, which they can, if they like, collect via their own internal anonymous feedback system (if not now, then in a future version of the app)—and my choosing to answer them privately is not the same as agreeing to give that answer in public. It’s like going into the supermarket and having this conversation with the manager:
 
 > Manager: Excuse me, may I ask, how was your shopping experience today?
 
@@ -48,8 +48,8 @@ The code I looked at also contained a “nag” screen to “like” the applica
 and so on. However, I did notice that, in the version of the code I looked at, the situation with *this* nag is very similar to that of the “rate us” nag:
 ```
 mHasInvited = true;
- showAppInviteDialog();
- Statistics.INSTANCE.trackEvent(Statistics.EventName.FACEBOOK_INVITE_INVITED);
+showAppInviteDialog();
+Statistics.INSTANCE.trackEvent(Statistics.EventName.FACEBOOK_INVITE_INVITED);
 ```
 where `showAppInviteDialog` passes control to `FacebookSdk` and cannot confirm you’ve actually gone ahead with signing up and logging in to Facebook to promote it for them. Additionally, there was nothing in the instructions (at least not in the version I looked at) which actually said the “Share” button means Facebook—I can in good conscience say I’ll share it if I get to choose my *own* sharing method, without having agreed to do so on Facebook. (On the other hand, I wouldn’t share it with anybody without first lecturing them *not* to follow the instructions about signing up to Facebook!)
 

@@ -68,7 +68,7 @@ This might be useful for porting audio to old DVD players that don’t support M
 then proceed with output.mkv (convert it to `.mpg` as per DVD output below, etc)
 * Output file might not concatenate well with other tracks, but the `dvdauthor` command (below) can take multiple `mpg` inputs
 
-You can also use ffmpeg to attach audio to a **still image** :
+You can also use ffmpeg to attach audio to a **still image**:
 
 `ffmpeg -i audio.mp3 -loop 1 -i picture.jpg -shortest -vcodec mpeg4 -b:v 800k audio.avi`
 
@@ -189,7 +189,7 @@ Playable on *recent* versions of Windows Media Player (Windows 10 should work),
 ### Zoom Cloud Meetings
 
 Zoom added a built-in video-share function to version 5.4.3 but only on Windows and Mac (use **Share Screen / Advanced / Video** and choose a file), but on GNU/Linux the method below is still needed (and might also work for other video-conferencing software that has “screen sharing” but no option to feed a video to it directly).
-* If nobody at *your* location needs to view the video full-screen, then it’s likely more efficient to feed the video to Zoom *at its original size* , avoiding an extra level of rescaling. Try a command like:
+* If nobody at *your* location needs to view the video full-screen, then it’s likely more efficient to feed the video to Zoom *at its original size*, avoiding an extra level of rescaling. Try a command like:
 
    `echo pause | mplayer $'-as\x73' $'-\x73\x6c\x61\x76e' -noborder video.mp4`
 
@@ -263,13 +263,13 @@ If you are on a (probably RedHat) setup where the only working audio player is t
 * When you have `output.mpg` (from either `mencoder` or `ffmpeg`), run this (again changing the 16:9 if necessary):
 
    `mkdir DVD/ && export VIDEO_FORMAT=PAL && dvdauthor -o DVD/ -t -v 16:9 output.mpg && dvdauthor -o DVD/ -T && rm output.mpg && mkisofs -dvd-video -v -o DVD.iso DVD && rm -r DVD`
-* On GNU/Linux, use `sudo cdrecord -data DVD.iso`; on a Mac, use `hdiutil burn DVD.iso` ( **don’t** use the Finder to right-click on DVD.iso and select “Burn to Disc”, as this creates a *new* filesystem containing just the ISO file, which most DVD players will reject as “CDROM”)
+* On GNU/Linux, use `sudo cdrecord -data DVD.iso`; on a Mac, use `hdiutil burn DVD.iso` (**don’t** use the Finder to right-click on DVD.iso and select “Burn to Disc”, as this creates a *new* filesystem containing just the ISO file, which most DVD players will reject as “CDROM”)
 * Some (but not all) DVD players can also play VCD. For a PAL VCD (format is constrained, you can’t change the bitrate etc):
 
   `-oac lavc -ovc lavc -of mpeg -mpegopts format=xvcd -vf dsize=352:288:2,harddup -srate 44100 -af lavcresample=44100 -lavcopts acodec=mp2:abitrate=224:vcodec=mpeg1video:keyint=15:vrc_buf_size=327:vrc_minrate=1152:vrc_maxrate=1152:vbitrate=1152:aspect=16/9 -ofps 25 -o output.mpg`
 
   Then run `vcdimager output.mpg` and write with `cdrdao write videocd.cue` or convert to ISO with `bchunk videocd.bin videocd.cue videocd.iso`
-* If you have less than 35 minutes to put on a video CD then you can try SVCD ( *if* supported by the player), e.g.:
+* If you have less than 35 minutes to put on a video CD then you can try SVCD (*if* supported by the player), e.g.:
 
    `-oac lavc -ovc lavc -of mpeg -mpegopts format=xsvcd -vf dsize=480:576:2,harddup -srate 44100 -af lavcresample=44100 -lavcopts vcodec=mpeg2video:mbd=2:keyint=15:vrc_buf_size=917:vrc_minrate=600:vbitrate=2500:vrc_maxrate=2500:acodec=mp2:abitrate=224:aspect=16/9 -ofps 25 -o output.mpg`
 

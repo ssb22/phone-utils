@@ -45,11 +45,11 @@ When Los Angeles’ Museum of Tolerance opened in 1993, it was widely reported t
 
 （那家博物馆在美国，大家都知道美国人有偏见，但英国人呢？——哎哟，稍等，那句话也是偏见的例子。）
 
-(Of course, that museum is in *America* , and we all know *Americans* are prejudiced, but *British*—oh, wait.)
+(Of course, that museum is in *America*, and we all know *Americans* are prejudiced, but *British*—oh, wait.)
 
 比较少数记者也报告那博物馆的大屠杀部分有牌子说“谁的责任?”而回答“是你自己的责任”。我不赞同把那具体暴行的责任给全人类的每一个成员（包括拼命解救受害者的人!），但“我们都或多或少有偏见”那个信息是没错的——经上记着说“地上没有只行善而不犯罪的”——所以那博物馆的牌子我们也许最好读成“你负责 **避免下个暴行** 。”
 
-It’s less often reported that the museum’s Holocaust section has a sign saying “who is responsible?” with the answer “ *you* are”. While I don’t approve blaming that particular atrocity on every single human (what about those who risked their lives to help the victims?), the message that all of us have *some* degree of prejudice is a sound one—“not a just man upon earth [always] doeth good and sinneth not”—so perhaps the museum’s sign would be better understood as “you are responsible *for avoiding the next one*.”
+It’s less often reported that the museum’s Holocaust section has a sign saying “who is responsible?” with the answer “*you* are”. While I don’t approve blaming that particular atrocity on every single human (what about those who risked their lives to help the victims?), the message that all of us have *some* degree of prejudice is a sound one—“not a just man upon earth [always] doeth good and sinneth not”—so perhaps the museum’s sign would be better understood as “you are responsible *for avoiding the next one*.”
 
 我有个英国政府注册的视觉障碍，所以我本人属于至少一个被保护的少数群体。学校恶霸打了我，长大后又被车上和路上粗鲁的人骂脏话和吐痰。当然我不会自己效法这些恶习。不过，可悲的事我不得不报告我的经验：做他们的受害者不给我完全的偏见免疫力，我还会开始有偏见的影响。
 

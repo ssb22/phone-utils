@@ -23,7 +23,7 @@ The professor had associated my Weibo account with an email address hosted at Ch
 
 所以我那时有了微博密码（我快快改变为一个很难猜测、配得上电脑科学家的随机密码）但我没有那个liren电邮的密码。电邮帐户好像微博的‘后门’，因为控制“我”电邮帐户的人能求微博修改密码。要是那个电邮真的被教授控制，那没问题。但她2015年无法进去那个电邮。
 
-So I had the Weibo password (which I promptly changed to an unguessable string of random characters worthy of a *computer scientist* ), but I didn’t have the password for the “liren” email account, which was effectively a “back door” into the Weibo account because anyone with access to “my” email could ask Weibo for a password reset. That was OK while the “liren” email was controlled by the professor, but in 2015 she couldn’t get in anymore.
+So I had the Weibo password (which I promptly changed to an unguessable string of random characters worthy of a *computer scientist*), but I didn’t have the password for the “liren” email account, which was effectively a “back door” into the Weibo account because anyone with access to “my” email could ask Weibo for a password reset. That was OK while the “liren” email was controlled by the professor, but in 2015 she couldn’t get in anymore.
 
 我不知道那个163.com电邮是怎样被失去的。可能密码太软弱，或者由于帐户没被使用而到期和其他人选择同样的地址。我微博密码停止运转时，教授无法改变，但劝我放心因为新浪微博失去了流行。
 
