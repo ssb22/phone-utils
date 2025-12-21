@@ -89,40 +89,40 @@ I had a comment about such a statement on my self-care LLM prompts page (text as
 其实，我刻意选择“医生”而非“治疗师”是有重要原因的，也许值得说明：
 
 Actually there is a strong reason why I very deliberately chose to specify a medical doctor, not a therapist, which perhaps I should document.
-1. **医生比我更清楚何时该转介心理治疗**——某些症状可能源于*生理*问题，而治疗师未必具备识别这类问题的专业训练，但医生可以及时发现。因此，我更希望读者*先看医生*，由*医生*判断是否需要转介心理治疗。
+1. **医生比我更清楚何时该转介心理治疗**——某些症状可能源于 *生理* 问题，而治疗师未必具备识别这类问题的专业训练，但医生可以及时发现。因此，我更希望读者 *先看医生* ，由 *医生* 判断是否需要转介心理治疗。
 
-**Medical doctors know better than me about when to make a therapy referral**—the patient might have a *physiological* issue that a therapist is ill-equipped to detect but the doctor can spot! I’d rather they went to their doctor to check for that *first* and then *the doctor* can decide whether or not to refer them to therapy.
-   * 而且， *由医生出具* 的转介通常比读者仅因看到某计算机科学家个人网站上的建议就自行求助**更具分量、更容易获得重视。**（是的， 我虽有博士学位但并非医学博士； 英文“博士” 和“医生”都是doctor但不真的一样。）
+    **Medical doctors know better than me about when to make a therapy referral**—the patient might have a *physiological* issue that a therapist is ill-equipped to detect but the doctor can spot! I’d rather they went to their doctor to check for that *first* and then *the doctor* can decide whether or not to refer them to therapy.
+   * 而且， *由医生出具* 的转介通常比读者仅因看到某计算机科学家个人网站上的建议就自行求助 **更具分量、更容易获得重视。** （是的， 我虽有博士学位但并非医学博士； 英文“博士” 和“医生”都是doctor但不真的一样。）
 
-And if the doctor *does* refer them, a referral *from a doctor* probably carries **more weight** than a self-referral on the basis of seeing some notes on a random computer scientist’s personal home page. Yes I’m a PhD doctor but not an MD doctor: many non-English languages have different words for the two.
-2. 普通医疗服务通常比专科心理服务**更容易预约。**我不希望读者排进心理治疗的漫长等候名单，几周甚至几个月毫无进展而没同时收到全科医生或护士的基本指导。宁可更快获得初步评估和指导再由专业人士决定下一步。
+     And if the doctor *does* refer them, a referral *from a doctor* probably carries **more weight** than a self-referral on the basis of seeing some notes on a random computer scientist’s personal home page. Yes I’m a PhD doctor but not an MD doctor: many non-English languages have different words for the two.
+2. 普通医疗服务通常比专科心理服务 **更容易预约。** 我不希望读者排进心理治疗的漫长等候名单，几周甚至几个月毫无进展而没同时收到全科医生或护士的基本指导。宁可更快获得初步评估和指导再由专业人士决定下一步。
 
-General medical services tend to have **more immediate availability** than specialised mental-health services. I don’t want the reader to sign themselves up for a therapy waiting list and nothing happens for weeks or months or longer, when they could at least be getting some basic advice from a qualified nurse or general practitioner in the meantime. I’d rather refer them to something they can get *more quickly* and be redirected from there by someone who knows what they’re doing.
-3. 许多曾经历过不当治疗或误诊的人一听到“去看治疗师”就可能立刻产生抵触情绪，心想：“早试过了，结果伤得更深，再也不想碰了。”我当然可以说“不是所有治疗师都一样”或“过去是悲剧，但未来未必重演”等等，但**我更希望由医生来传递这些信息**——很多时候，医生或护士*无需转介*就能提供有效帮助；假如真的需要治疗师支持他们也能以更体贴、更个体化的方式与患者讨论，远胜于我在网页免责声明里写下的泛泛之言。
+   General medical services tend to have **more immediate availability** than specialised mental-health services. I don’t want the reader to sign themselves up for a therapy waiting list and nothing happens for weeks or months or longer, when they could at least be getting some basic advice from a qualified nurse or general practitioner in the meantime. I’d rather refer them to something they can get *more quickly* and be redirected from there by someone who knows what they’re doing.
+3. 许多曾经历过不当治疗或误诊的人一听到“去看治疗师”就可能立刻产生抵触情绪，心想：“早试过了，结果伤得更深，再也不想碰了。”我当然可以说“不是所有治疗师都一样”或“过去是悲剧，但未来未必重演”等等，但 **我更希望由医生来传递这些信息**——很多时候，医生或护士 *无需转介* 就能提供有效帮助；假如真的需要治疗师支持他们也能以更体贴、更个体化的方式与患者讨论，远胜于我在网页免责声明里写下的泛泛之言。
 
-People who have been through [imperfect therapy or misdiagnosis](https://ssb22.user.srcf.net/cvi/blindsight.html) may be inclined on reading words like “see a therapist” to react along the lines of “been there, done that, *burnt* the T-shirt” i.e. immediately dismiss the suggestion as not for them or “don’t want to go back *there* again”. Yes I could stand here pontificating about “not *all* therapists are equally incompetent” and “some have actually demonstrably been able to help in some cases” and “your past experience was indeed a tragedy but you must believe it’s not destined to end up like that *every* time” etc etc ad nauseam **but I’d rather have this come from their doctor**—often a nurse or doctor will be able to help *without* making further referral (if it’s not too complex a situation), in which case we can completely *avoid* all those strong negative associations with “crazy psychologists” (it’s an old joke that every therapist *needs* one)—but if therapy is *still* recommended, then that medically-qualified person can discuss it with the patient far more sympathetically, well-informed and customised to their individual case than any words I can write on my website disclaimer.
-4. *已经*接受心理健康服务的人，既然能读到我这些文字，想必也具备一定判断力，自然会把“看医生”理解为“联系你现有的支持体系”。我不必为此额外解释，以免反而让其他读者感到困惑或被排除在外。
+   People who have been through [imperfect therapy or misdiagnosis](https://ssb22.user.srcf.net/cvi/blindsight.html) may be inclined on reading words like “see a therapist” to react along the lines of “been there, done that, *burnt* the T-shirt” i.e. immediately dismiss the suggestion as not for them or “don’t want to go back *there* again”. Yes I could stand here pontificating about “not *all* therapists are equally incompetent” and “some have actually demonstrably been able to help in some cases” and “your past experience was indeed a tragedy but you must believe it’s not destined to end up like that *every* time” etc etc ad nauseam **but I’d rather have this come from their doctor**—often a nurse or doctor will be able to help *without* making further referral (if it’s not too complex a situation), in which case we can completely *avoid* all those strong negative associations with “crazy psychologists” (it’s an old joke that every therapist *needs* one)—but if therapy is *still* recommended, then that medically-qualified person can discuss it with the patient far more sympathetically, well-informed and customised to their individual case than any words I can write on my website disclaimer.
+4. *已经* 接受心理健康服务的人，既然能读到我这些文字，想必也具备一定判断力，自然会把“看医生”理解为“联系你现有的支持体系”。我不必为此额外解释，以免反而让其他读者感到困惑或被排除在外。
 
-People who are *already* working with a mental-health professional (and are also ‘smart’ enough to have found my home page in the first place and to be reading my sentences intelligently) will already know to internally translate “see your doctor” into whatever arrangement they already have—I won’t need to *explain* that at the expense of an increased risk of making things more difficult for *other* readers.
+   People who are *already* working with a mental-health professional (and are also ‘smart’ enough to have found my home page in the first place and to be reading my sentences intelligently) will already know to internally translate “see your doctor” into whatever arrangement they already have—I won’t need to *explain* that at the expense of an increased risk of making things more difficult for *other* readers.
 
-**特别针对剑桥学生：**存在一些非医疗背景的非正式支持渠道，我也推荐与支持但前提是你知道怎么认出它们的帮助不够而寻求专业帮助。有些留学生以为官方支持只对英国本地学生开放，这个误解完全错误（我曾帮人创立一两本地汉语社会希望能支持同辈帮助不等于劝阻看专业人员），无论你是否国际学生以下资源都为你开放：
+**特别针对剑桥学生：** 存在一些非医疗背景的非正式支持渠道，我也推荐与支持但前提是你知道怎么认出它们的帮助不够而寻求专业帮助。有些留学生以为官方支持只对英国本地学生开放，这个误解完全错误（我曾帮人创立一两本地汉语社会希望能支持同辈帮助不等于劝阻看专业人员），无论你是否国际学生以下资源都为你开放：
 
 **For Cambridge students in particular,** there are various unofficial non-medically-qualified support options which I do endorse, but only if used judiciously and you know when to say “this isn’t helping and I’m calling in the pros”. The “official ports of call” are available to all students *including international students*—I wish I could destroy the “official support is only for the local UK students” myth. Just because I helped establish a Chinese club or two, thinking, among other things, that this would encourage an unofficial peer support option for those who *already* don’t want the official channels, doesn’t mean I want to *perpetuate* the idea that official channels are “off the table” for anyone. These are:
-1. 门房(Porters’ Lodge) ——别因为曾被门房批评过就害怕他们！他们虽非医务人员，但*会立刻联系*正确的人，并在等待期间*妥善*处理紧急情况。多数学院门房24小时有人值守，你也可以拨打学院公布的电话求助——我手机里存了好几个学院的号码，以备不时之需。
+1. 门房(Porters’ Lodge) ——别因为曾被门房批评过就害怕他们！他们虽非医务人员，但 *会立刻联系* 正确的人，并在等待期间 *妥善* 处理紧急情况。多数学院门房24小时有人值守，你也可以拨打学院公布的电话求助——我手机里存了好几个学院的号码，以备不时之需。
 
-The porters’ lodge. Seriously, don’t be frightened of the porters even if they’ve previously told you off for something! They’re not medics, but they *will* call the right people and they *will* handle a situation responsibly in the meantime, and many colleges have at least one 24/7 lodge. You can also phone them on numbers displayed around the college; I have some colleges’ numbers already saved on my mobile just in case I encounter a situation that needs such a call.
-2. 学院护士——这是你最直接的医疗联系人，他们*也*具备基础心理健康知识。（部分学院还设有福利专员可聊天。）
+   The porters’ lodge. Seriously, don’t be frightened of the porters even if they’ve previously told you off for something! They’re not medics, but they *will* call the right people and they *will* handle a situation responsibly in the meantime, and many colleges have at least one 24/7 lodge. You can also phone them on numbers displayed around the college; I have some colleges’ numbers already saved on my mobile just in case I encounter a situation that needs such a call.
+2. 学院护士——这是你最直接的医疗联系人，他们 *也* 具备基础心理健康知识。（部分学院还设有福利专员可聊天。）
 
-The college nurse—your most immediate medically-qualified contact and yes they *also* know basic things about mental health. (Some colleges also have a dedicated welfare officer you can chat with.)
+   The college nurse—your most immediate medically-qualified contact and yes they *also* know basic things about mental health. (Some colleges also have a dedicated welfare officer you can chat with.)
 3. 校外全科医生及NHS服务——但请尽可能优先联系学院护士。
 
-External GP and NHS services—but always try the college nurse first if possible
+   External GP and NHS services—but always try the college nurse first if possible
 4. 你被委派的导师(Tutor)——用于协调学业安排（如需休学、延期等），通常在护士建议下进行。（专业问题可找Director of Studies；逐步上升可找Senior Tutor。）
 
-Your Tutor—for sorting out general academic arrangements, possibly on the advice of the nurse. (Director of Studies if it’s more subject-specific. Senior Tutor if escalating.)
+   Your Tutor—for sorting out general academic arrangements, possibly on the advice of the nurse. (Director of Studies if it’s more subject-specific. Senior Tutor if escalating.)
 5. 大学心理咨询服务：我的非官方建议是，除非你不介意漫长的等候名单，否则不要自行预约，先找学院护士，他们可在必要时为你正式转介。
 
-The counselling service: my unofficial advice is “do not self-refer unless you like long waiting lists” (see your college nurse instead; they can refer you if you want)
+   The counselling service: my unofficial advice is “do not self-refer unless you like long waiting lists” (see your college nurse instead; they can refer you if you want)
 
 因此，是的——“请咨询医生”这句话，我会保留。 （但再次强调：本文不是医疗建议。请咨询……你已经知道。）
 

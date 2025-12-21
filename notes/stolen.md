@@ -13,7 +13,7 @@ In 2003 I befriended a visiting scholar from Tsinghua University who researches
 
 In 2007 I befriended another Beijing visiting scholar researching English literature including Thomas Hardy. It was thanks to her encouragement that I went public with my [translation of Xu Zhimo’s poem](https://ssb22.user.srcf.net/poem/). (Both scholars visited my parents and thereby saw Hardy country.)
 
-2010年，研究网络媒介与社会文化的那个教授开始实行一个可以被描述为“离奇的试验”，亦即，给*我*一个中国社交网站帐户。文学教授支援很多。她说服几百人“跟随”我，然后小心照顾我试试用汉语与他们互动。我不是生来就要写博客的，也不把握微博的好处，但由于我的两位良师益友，我不介意试试写一点，看看结果。
+2010年，研究网络媒介与社会文化的那个教授开始实行一个可以被描述为“离奇的试验”，亦即，给 *我* 一个中国社交网站帐户。文学教授支援很多。她说服几百人“跟随”我，然后小心照顾我试试用汉语与他们互动。我不是生来就要写博客的，也不把握微博的好处，但由于我的两位良师益友，我不介意试试写一点，看看结果。
 
 In 2010 the Internet media and social culture professor started what could be called a quirky experiment: give *me* a Chinese social media account. The literature professor was highly supportive, persuaded hundreds of people to “follow” me and mentored my attempts to interact with them in Chinese. I’m not a born “blogger” and wasn’t sure what I was *doing* with a Weibo account, but as it was my two friends/mentors, I didn’t mind writing a little to see what happens.
 
@@ -23,7 +23,7 @@ The professor had associated my Weibo account with an email address hosted at Ch
 
 所以我那时有了微博密码（我快快改变为一个很难猜测、配得上电脑科学家的随机密码）但我没有那个liren电邮的密码。电邮帐户好像微博的‘后门’，因为控制“我”电邮帐户的人能求微博修改密码。要是那个电邮真的被教授控制，那没问题。但她2015年无法进去那个电邮。
 
-So I had the Weibo password (which I promptly changed to an unguessable string of random characters worthy of a *computer scientist*), but I didn’t have the password for the “liren” email account, which was effectively a “back door” into the Weibo account because anyone with access to “my” email could ask Weibo for a password reset. That was OK while the “liren” email was controlled by the professor, but in 2015 she couldn’t get in anymore.
+So I had the Weibo password (which I promptly changed to an unguessable string of random characters worthy of a *computer scientist* ), but I didn’t have the password for the “liren” email account, which was effectively a “back door” into the Weibo account because anyone with access to “my” email could ask Weibo for a password reset. That was OK while the “liren” email was controlled by the professor, but in 2015 she couldn’t get in anymore.
 
 我不知道那个163.com电邮是怎样被失去的。可能密码太软弱，或者由于帐户没被使用而到期和其他人选择同样的地址。我微博密码停止运转时，教授无法改变，但劝我放心因为新浪微博失去了流行。
 
@@ -41,15 +41,15 @@ Facebook has reportedly used people’s names and pictures in advertising, which
 
 My last genuine post to Sina Weibo was 1<sup>st</sup> November 2015. The fake posts started on 8<sup>th</sup> November and continued (often at the rate of several per day) until mid-December, when for some reason new posts were (temporarily?) stopped.
 
-一年之后我才发觉了，所以放这个网页试试让人知道那个silascambridge身分**不是我**而我**不赞成**它所说的任何话。此后，我发觉仍然能使用我的英国手机号码进的去微博帐号，但还不会改变那个163.com登录名，所以那个人能够随时再次进去。看来我无法删除这个微博帐户，所以我删除所有小文章、照片、等，试试让人清楚看这个微博不再是‘我’的。（我不会控制他们加什么。）我仍然恐怕很可能有一些档案包含了旧版本。
+一年之后我才发觉了，所以放这个网页试试让人知道那个silascambridge身分 **不是我** 而我 **不赞成** 它所说的任何话。此后，我发觉仍然能使用我的英国手机号码进的去微博帐号，但还不会改变那个163.com登录名，所以那个人能够随时再次进去。看来我无法删除这个微博帐户，所以我删除所有小文章、照片、等，试试让人清楚看这个微博不再是‘我’的。（我不会控制他们加什么。）我仍然恐怕很可能有一些档案包含了旧版本。
 
 I discovered the problem a year later, and put up this Web page to try to let people know “silascambridge” **isn’t me** and I do **not** endorse anything it says. Shortly thereafter, I discovered that my UK mobile number, which I thought had failed to bind to the Weibo account (I never received the original confirmation SMS, and assumed they couldn’t send them to the UK), *had* in fact bound and could be used to get back into the account. However, I still haven’t found any option to change the 163.com email address used as a login name, so the intruder can get back in at any time. As I can’t delete the Weibo account, I deleted all posts, pictures, etc, and tried to make it obvious that the account is not “mine” anymore. (I can’t control what they add.) I’m still afraid there might be archives of the old version floating around somewhere.
 
-我也留意了，新浪微博网站的*第三方*广告数目2016年比2010年大的多（如果没有登记特别社这样，2010年不可不登记但2016年可以不登记而接受更多广告），也令我怀疑使用这样的平台出版任何严肃的思想是不是明智的，因为虚拟环境更不安宁。
+我也留意了，新浪微博网站的 *第三方* 广告数目2016年比2010年大的多（如果没有登记特别社这样，2010年不可不登记但2016年可以不登记而接受更多广告），也令我怀疑使用这样的平台出版任何严肃的思想是不是明智的，因为虚拟环境更不安宁。
 
 I also noticed that the amount of *third-party* advertising on Sina Weibo’s website was much greater in 2016 than it was in 2010 (especially for those viewing it without logging in, which was not an option in 2010), leading me to doubt the wisdom of using such a platform for anything resembling serious thought, since it’s not a particularly “peaceful” virtual environment now even if it might have been before.
 
-删除之前，我拷贝了210千字节的小文章和评论（但没保存照片）。也许我得看看哪个材料*可以*放在网站，但不知道什么时候这样做。
+删除之前，我拷贝了210千字节的小文章和评论（但没保存照片）。也许我得看看哪个材料 *可以* 放在网站，但不知道什么时候这样做。
 
 Before deleting, I copied out 210 kilobytes of posts and comments (but didn’t save the pictures); perhaps I should look through this to find what (if anything) *could* be put on the Web for a wider interest, but don’t hold your breath.
 

@@ -45,21 +45,21 @@ When Los Angeles’ Museum of Tolerance opened in 1993, it was widely reported t
 
 （那家博物馆在美国，大家都知道美国人有偏见，但英国人呢？——哎哟，稍等，那句话也是偏见的例子。）
 
-(Of course, that museum is in *America*, and we all know *Americans* are prejudiced, but *British*—oh, wait.)
+(Of course, that museum is in *America* , and we all know *Americans* are prejudiced, but *British*—oh, wait.)
 
-比较少数记者也报告那博物馆的大屠杀部分有牌子说“谁的责任?”而回答“是你自己的责任”。我不赞同把那具体暴行的责任给全人类的每一个成员（包括拼命解救受害者的人!），但“我们都或多或少有偏见”那个信息是没错的——经上记着说“地上没有只行善而不犯罪的”——所以那博物馆的牌子我们也许最好读成“你负责**避免下个暴行**。”
+比较少数记者也报告那博物馆的大屠杀部分有牌子说“谁的责任?”而回答“是你自己的责任”。我不赞同把那具体暴行的责任给全人类的每一个成员（包括拼命解救受害者的人!），但“我们都或多或少有偏见”那个信息是没错的——经上记着说“地上没有只行善而不犯罪的”——所以那博物馆的牌子我们也许最好读成“你负责 **避免下个暴行** 。”
 
-It’s less often reported that the museum’s Holocaust section has a sign saying “who is responsible?” with the answer “*you* are”. While I don’t approve blaming that particular atrocity on every single human (what about those who risked their lives to help the victims?), the message that all of us have *some* degree of prejudice is a sound one—“not a just man upon earth [always] doeth good and sinneth not”—so perhaps the museum’s sign would be better understood as “you are responsible *for avoiding the next one*.”
+It’s less often reported that the museum’s Holocaust section has a sign saying “who is responsible?” with the answer “ *you* are”. While I don’t approve blaming that particular atrocity on every single human (what about those who risked their lives to help the victims?), the message that all of us have *some* degree of prejudice is a sound one—“not a just man upon earth [always] doeth good and sinneth not”—so perhaps the museum’s sign would be better understood as “you are responsible *for avoiding the next one*.”
 
 我有个英国政府注册的视觉障碍，所以我本人属于至少一个被保护的少数群体。学校恶霸打了我，长大后又被车上和路上粗鲁的人骂脏话和吐痰。当然我不会自己效法这些恶习。不过，可悲的事我不得不报告我的经验：做他们的受害者不给我完全的偏见免疫力，我还会开始有偏见的影响。
 
 As a person registered with a visual disability, I myself am a member of at least one protected minority group. I was beaten up at school and have since been spat at and vilified by passing cars and street louts, and I wouldn’t do *that* myself, but sadly I must report that being their victim does not give me complete immunity to developing prejudices of my own.
 
-偏见有时来自某人的自我保护反应。比如，我在海边附近长大，小时候有个健壮身材衣着单薄的度假人士向我乱扔垃圾，所以我打开个偏见：健壮身材衣着单薄的度假人士就是恶人。我高自觉的思想可能质疑那推论的贝叶斯分析，但我本能宁可由于过度谨慎而出错而不留下看看有没有其他垃圾来打我。如果我后来发现有个在其他方面合理的人喜爱去沙滩晒太阳，我得**自觉地**处理“正在分类为‘恶人’的神经元错了。”
+偏见有时来自某人的自我保护反应。比如，我在海边附近长大，小时候有个健壮身材衣着单薄的度假人士向我乱扔垃圾，所以我打开个偏见：健壮身材衣着单薄的度假人士就是恶人。我高自觉的思想可能质疑那推论的贝叶斯分析，但我本能宁可由于过度谨慎而出错而不留下看看有没有其他垃圾来打我。如果我后来发现有个在其他方面合理的人喜爱去沙滩晒太阳，我得 **自觉地** 处理“正在分类为‘恶人’的神经元错了。”
 
 A prejudice can develop as a natural protection mechanism. For example, growing up near the sea, I had the bad experience of a large lightly-clad holidaymaker throwing litter in my direction, so I developed a prejudice that large lightly-clad holidaymakers are nasty. My higher-level thoughts may be questioning the Bayesian priors of that inference, but my instinct would rather err on the side of caution than hang around to find out if I get clouted with any more objects. If I later discover that an otherwise-sensible person happens to take sunbathing holidays, I have to *consciously* process that the neurons now flagging up “nasty grockle” are misfiring.
 
-我试试把自己脑筋的判断倾向比做个不完美的科学仪器给我错误的测量。测量的“偏见”叫做“系统偏差”，解决方法很明显：要是我**知道**某个仪器一直测量太高，而修补仪器太难，我至少能试试修改那些测量，计算每一个测量需要减去多少。
+我试试把自己脑筋的判断倾向比做个不完美的科学仪器给我错误的测量。测量的“偏见”叫做“系统偏差”，解决方法很明显：要是我 **知道** 某个仪器一直测量太高，而修补仪器太难，我至少能试试修改那些测量，计算每一个测量需要减去多少。
 
 I try to treat my brain’s tendency to form opinions like an imperfect scientific instrument giving me measurements. In measurement, a bias is a systematic error. So the fix is obvious: if I *know* an instrument always gives a reading that’s too high, and if fixing the instrument itself is too difficult, then at least I can *compensate* by working out how much I should subtract from each of the readings it gives me.
 
@@ -67,11 +67,11 @@ I try to treat my brain’s tendency to form opinions like an imperfect scientif
 
 As humans, we don’t like to admit we’re prejudiced because our image of the archetypical “prejudiced person” is someone who doesn’t *care* about being prejudiced. But “I’m prejudiced and I don’t care” is very different from “I’m prejudiced and I’m trying to work around that problem”. As a coder, I find the skill of not making mistakes is secondary to the skill of catching them before they go too far. It rarely helps to think “I’m such a rubbish person” instead of “OK, so my system made the following errors, let’s see which bugs I can now fix or patch over.” I hope to at least set a reasonable example in how to deal with having these issues.
 
-我们不想承认自己有偏见的另一个理由很可能是我们害怕我们承认的不良后果。不少组织有“零容忍政策”，这些规则一般惩罚具体类型的偏见行为，比如种族歧视行为。但不是每一个人都同意“种族主义”的定义。比如，假如其他国家的政府是被另一种族控制而法令一些我误解或不愿意同意的律法，那等于我是种族主义者吗? 我的《牛津词典三版本》没这样说，但谁说我们仍然用那个词典? 记者说法庭判决“种族主义者”那个词已经被冲淡了，所以被人诬告为“种族主义者”不再等于诽谤，只是个跟律法无关的个人辱骂。解雇规则等可能包含更严格的定义，但这不是所有人知道的，所以很容易想，承认有偏见——任何样子的偏见——限制只在脑海里奋斗偏见——就等于承认自己得被解雇、排斥、被社会忽略等等。这好像对**偏见**的偏见。
+我们不想承认自己有偏见的另一个理由很可能是我们害怕我们承认的不良后果。不少组织有“零容忍政策”，这些规则一般惩罚具体类型的偏见行为，比如种族歧视行为。但不是每一个人都同意“种族主义”的定义。比如，假如其他国家的政府是被另一种族控制而法令一些我误解或不愿意同意的律法，那等于我是种族主义者吗? 我的《牛津词典三版本》没这样说，但谁说我们仍然用那个词典? 记者说法庭判决“种族主义者”那个词已经被冲淡了，所以被人诬告为“种族主义者”不再等于诽谤，只是个跟律法无关的个人辱骂。解雇规则等可能包含更严格的定义，但这不是所有人知道的，所以很容易想，承认有偏见——任何样子的偏见——限制只在脑海里奋斗偏见——就等于承认自己得被解雇、排斥、被社会忽略等等。这好像对 **偏见** 的偏见。
 
 Another reason we don’t like to admit we’re prejudiced is probably fear of negative consequences of our admission. Many groups advocate “zero tolerance” policies. These are usually aimed at specific prejudicial actions, such as acts of racism. But not everybody agrees what “racism” means—for example, if one of the world’s governments makes a law that I misunderstand or fail to agree with, does their different ethnicity make me a racist? That doesn’t match the ODE 3<sup>rd</sup> Edition’s definition of “racism” but who said we still use that? Courts have reportedly opined that the meaning of “racist” has been diluted so much that *falsely* calling someone “racist” no longer counts as defamation, but is merely “name-calling” that is not legally actionable by itself. (The 2018 case of McAnulty vs McCulloch hinged on proven career damage—paragraph 37.) Corporate dismissal policies use specific definitions of “racism” but not everyone knows that (and sometimes it gets missed, for example in 2021 a major UK bank wrote to customers saying their accounts can now be closed for racism *without* defining it—their customer services told me it means anything their staff dislike, except in “Basic” accounts which have stronger laws about who can hold one). As word usages expand, it would be easy to think that admitting to even an *internal* struggle with prejudice—*any* prejudice—is grounds for dismissal, ostracism, exclusion or whatever: prejudice against *prejudice*.
 
-我不打算减少严重坏行为的严重性，不过我们不必害怕承认自己都**有**偏见——我们要是不知觉那更危险。希望知觉地处理自己的偏见不是排斥的理由。你好，我是赛乐思，我有偏见，我试试处理这些问题，希望您也会。
+我不打算减少严重坏行为的严重性，不过我们不必害怕承认自己都 **有** 偏见——我们要是不知觉那更危险。希望知觉地处理自己的偏见不是排斥的理由。你好，我是赛乐思，我有偏见，我试试处理这些问题，希望您也会。
 
 I don’t mean to minimise the seriousness of seriously-bad actions, but we shouldn’t be afraid to acknowledge that we all *have* prejudices—they’re more dangerous if we don’t know about them. Hopefully, consciously managing one’s prejudices is not grounds for exclusion. Hi I’m Silas Brown and I have prejudices. I try to do something about it, and I hope you can too.
 

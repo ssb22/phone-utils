@@ -26,7 +26,7 @@ In each case the image can appear clear on your side but blurred for the other p
 
 I have a separate page for technical information on [creating narrow-column screenshots](https://ssb22.user.srcf.net/adjuster/screenshot.html).
 
-For inline **videos**:
+For inline **videos** :
 * In older versions of WeChat, the time limit is just under 5 minutes (4:59 is accepted but 5:00 is “Video length too long”), the file size limit is just under 14MiB (so if using the full 4:59, the bitrate limit is about 384k, e.g. 256k video + 128k audio), and the *mobile* application should be used to introduce these into the WeChat network (i.e. by ‘Share’ or ‘Send’ from another mobile application)—older versions of the *desktop* application send videos as “files” that need extra action to view. Attempts to send videos larger than 14MiB on the older mobile application got the error “unable to import”, although the “say something” caption (if any) is sent anyway.
 * WeChat 8+ can handle longer videos inline, and these can be sent via version ~3.7+ of the desktop client, which recompresses the video to about 70kbps.
 
