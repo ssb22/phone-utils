@@ -24,7 +24,7 @@ Some models may carry a small risk of overfitting copyrighted sources, so I do n
 
 Below is a version of the combined instructions above, telling the LLM how to behave in various circumstances in a longer conversation. It is compressed into a form that can be used on:
 1. personalisation settings (if the platform has an arbitrary-text “customisation” box in the settings), or
-2. added to a “memory” (if the platform has memory and lets you ask the AI to store a paragraph verbatim in it—works on Kimi K2 but not K1.5 or Qwen; you can inspect the memory to see if it worked), or
+2. added to a “memory” (if the platform has memory and lets you ask the AI to store a paragraph verbatim in it—works on Kimi K2 in browser but not yet in app, and not K1.5 or Qwen; you can inspect the memory to see if it worked), or
 3. included with your first message, either by pasting this first then adding your message before sending, or by attaching this as a file to your message (works with Kimi K2 but not all models manage to make a clean separation), or
 4. pasting this as a first message by itself, letting the model respond with whatever (may result in a generic title for the conversation) then add your first real message.
 
@@ -56,6 +56,8 @@ But if you *must* have a long one, try to structure it: LLMs have “attention�
 * Kimi: Nice voice (I think they use their own bilingual audio model for Chinese output and Hume AI for English with voice cloning for consistency; heteronyms and prosody generally good although can glitch); playback has speed control and time-skip options. Long conversations over long periods possible, although if it gets *too* long it can degrade and/or become repetitive before hitting server limits. Web version and app can access same conversations but voices are currently app-only; when network is slow you can lose Web history if you input on the app before it’s finished synchronising.
 
 The Web interface has a “saved prompts” option under Settings: these can be pasted into conversations via a cube icon at bottom right (no accessibility label yet but HTML `div` class is `prompt-library-button`), not yet available for new conversations in the app but uploading an attachment from the Downloads folder is not too hard, or you can ask the LLM to store a specific paragraph in its long-term “memory” section to apply to every chat.
+
+Cross-chat memory currently loads only in sessions started via a Web browser. These can be continued via the app, but any sessions *started* on the app do not yet access stored memories as of December 2025.
 
 The realtime voice-call mode always starts a new conversation, currently using the K1.5 model (not K2) and cannot be used with saved prompts or memories; you can tap the keyboard to type in a URL for it to read but this must be typed as Paste is not available.
 * Kindroid (not recommended): Voice is only in “voice call” mode + too “flirty”
