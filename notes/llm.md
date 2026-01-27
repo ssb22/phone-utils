@@ -24,7 +24,7 @@ Some models may carry a small risk of overfitting copyrighted sources, so I do n
 
 Below is a version of the combined instructions above, telling the LLM how to behave in various circumstances in a longer conversation. It is compressed into a form that can be used on:
 1. personalisation settings (if the platform has an arbitrary-text “customisation” box in the settings), or
-2. added to a “memory” (if the platform has memory and lets you ask the AI to store a paragraph verbatim in it—works on Kimi K2 but not K1.5 or Qwen; you can inspect the memory to see if it worked), or
+2. added to a “memory” (if the platform has memory and lets you ask the AI to store a paragraph verbatim in it—works on Kimi K2+ but not Qwen; you can inspect the memory to see if it worked), or
 3. included with your first message, either by pasting this first then adding your message before sending, or by attaching this as a file to your message (works with Kimi K2 but not all models manage to make a clean separation), or
 4. pasting this as a first message by itself, letting the model respond with whatever (may result in a generic title for the conversation) then add your first real message.
 
@@ -57,7 +57,7 @@ But if you *must* have a long one, try to structure it: LLMs have “attention�
 
 The Web interface has a “saved prompts” option under Settings: these can be pasted into conversations via a cube icon at bottom right (no accessibility label yet but HTML `div` class is `prompt-library-button`), not yet available for new conversations in the app but uploading an attachment from the Downloads folder is not too hard, or you can ask the LLM to store a specific paragraph in its long-term “memory” section to apply to every chat.
 
-The realtime voice-call mode always starts a new conversation, currently using the K1.5 model (not K2) and cannot be used with saved prompts or memories but you can tap the keyboard to paste text during the call.
+The realtime voice-call mode always starts a new conversation and cannot be used with saved prompts or memories but you can tap the keyboard to paste text during the call.
 * Kindroid (not recommended): Voice is only in “voice call” mode + too “flirty”
 * Linky (not recommended): Heavy interstitial video advertising, some of it inappropriate; some characters have audio but not all; “flirty” characters too prominent; app can’t paste; output length limited; 15 free “advanced” messages doesn’t make much difference; it’s just about possible to get it to talk you through progressive muscle relaxation but difficult and it veers toward a roleplay distraction if it can’t do something
 * Manus (not recommended): can deliver audio but a bit slow and tends to repeat the prompt back to you
