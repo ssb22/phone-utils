@@ -1,5 +1,5 @@
 # Python 2 code to send SMS message programatically on Windows Mobile (2003SE/5/6/6.5)
-# Silas S. Brown - public domain
+# Silas S. Brown - public domain - no warranty
 
 # Where to find history:
 # on GitHub at https://github.com/ssb22/phone-utils
