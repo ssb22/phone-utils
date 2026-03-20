@@ -8,7 +8,7 @@ Many Chinese people now prefer to manage their contacts using a proprietary mobi
 
 ## Image and video limits
 
-If pasting a scanned document into a WeChat conversation as an image, the size limit is 300KiB, after which the image is shown only as a blurred preview unless the recipient presses a small button they might not notice. So it’s best to stay below 300KiB.
+If pasting a scanned document into a WeChat conversation as an image, the size limit is 300KiB, after which the image is shown only as a blurred preview unless the recipient presses a small button they might not notice. So it’s best to stay below 300KiB. I have a [Python script to optimise a multi-page PDF file as a sub-300KiB JPEG](https://raw.githubusercontent.com/ssb22/scan-reflow/refs/heads/master/pdf2wechat.py) in case you need a quick conversion on a flyer or whatever.
 * Beware a **lower limit** of about **128K** applies if you do any of the following on WeChat’s *Android* app:
   * Forward the image from one conversation to another (or from the Favourites list to a conversation) via the “Send to Chat” option;
   * Add the image to a conversation via “+” and “Album”;
@@ -62,6 +62,7 @@ All material © Silas S. Brown unless otherwise stated.
 Android is a trademark of Google LLC.
 Mac is a trademark of Apple Inc.
 MP3 is a trademark that was registered in Europe to Hypermedia GmbH Webcasting but I was unable to confirm its current holder.
+Python is a trademark of the Python Software Foundation.
 Telegram is a trademark of Telegram Messenger LLP.
 Unicode is a registered trademark of Unicode, Inc. in the United States and other countries.
 WeChat is a trademark of Tencent Holdings Limited.
