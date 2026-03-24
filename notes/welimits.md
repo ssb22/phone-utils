@@ -49,11 +49,13 @@ If a Chinese friend asks you to “fix” their WeChat on an older phone with in
 
 ## Length limits
 
-If you rename your contacts, the new names are limited to 29 Unicode characters, and you are given a “too long” message if you try to set anything longer—so if your Chinese character skills are limited you can’t write yourself *too* much of a reminder of how you met a person etc (unless you develop a terse shorthand code). Before the limit of 29 characters was implemented, there used to be a limit of 50 characters and the name would be truncated without warning; before *that* truncation was implemented, there used to be no practical limit. LINE’s limit is only 20 characters, but at least there’s a count (LINE also has [other problems](line.md)).
+As of v8.0.68 (2026), if you rename your contacts, the new names are limited to about 63 bytes of GB18030 encoding, which can be 30 Chinese characters or 60+ Latin letters; there is a count as you approach the limit although it takes two Latin letters to move the counter by one.
+
+Earlier versions of WeChat had a shorter limit of 29 Unicode characters, and you are given a “too long” message if you try to set anything longer—so if your Chinese character skills were limited you couldn’t write yourself *too* much of a reminder of how you met a person etc unless you developed a terse shorthand code. Before the limit of 29 characters was implemented, there used to be a limit of 50 characters and the name would be truncated without warning; before *that* truncation was implemented, there used to be no practical limit.
 
 Comments on WeChat “official account” posts are limited to 600 characters—there is no warning until you try to post, and there is no character-count indicator, so if you run into problems there you may have to use a different editor *with* character count and paste in the result (unless you want to go back to 1960s/70s programming where you had to manually count out the number of characters you typed into a Hollerith constant!)
 
-Chinese programmers might assume “one character” carries as much information as a Chinese character, so they may not realise how easy it is for English users to reach their limits. But the American developers of WhatsApp inexplicably limited group-chat titles to a mere 25 characters! (At least *that* limit is made obvious as you type.)
+Chinese programmers might assume “one character” carries as much information as a Chinese character, so they may not initially realise how easy it is for English users to reach their limits. But the American developers of WhatsApp inexplicably limited group-chat titles to a mere 25 characters! (LINE’s limit is only 20 characters, with a count, and LINE also has [other problems](line.md).)
 
 Disclaimer: The notes on this page are provided in the hope that they are useful, but they are not official instructions and may contain mistakes. Your use of them is at your own risk.
 
