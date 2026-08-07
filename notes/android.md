@@ -126,7 +126,7 @@ Since at least Android 4.x, background data can be restricted per application i
 * Even if your mobile network supports voice-calling over WiFi, it might not also support SMS over WiFi. But if you have *very weak* phone signal—just enough for messages but not enough for a voice call—then you can have both phone and WiFi switched on and the device should route traffic appropriately.
 * WiFi calling is not generally supported when you roam abroad (presumably because the system won’t ‘know’ which country-code to default to).
 
-On handsets like “Honor” that can send frequent audible notifications about Wi-Fi status changes, background app usage etc that can’t be turned off, you might want to set the global system alert tone to None (Silent) and selectively override this for real messaging apps.
+On handsets like “Honor” that can send frequent audible notifications about Wi-Fi status changes, background app usage etc that can’t be turned off, you might want to set the global system alert tone to None (Silent) and selectively override this for real messaging apps. (These handsets can also reinstall promotional software like AppSelector on *every* system update: remove via Settings / Apps / Manage / 3-dot menu / Show system / AppSelector / Uninstall.)
 
 The old “inTouch” app from H3G UK ceased to be supported on 15<sup>th</sup> May 2019. This used to make WiFi-calling available on more devices (by carrying it separately from the phone’s built-in dialler) and was a reason to choose the Three network on such devices, but this is no longer the case.
 

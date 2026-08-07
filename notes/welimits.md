@@ -57,6 +57,8 @@ Comments on WeChat “official account” posts are limited to 600 characters—
 
 Chinese programmers might assume “one character” carries as much information as a Chinese character, so they may not initially realise how easy it is for English users to reach their limits. But the American developers of WhatsApp inexplicably limited group-chat titles to a mere 25 characters! (LINE’s limit is only 20 characters, with a count, and LINE also has [other problems](line.md).)
 
+The number of “Moments” that can be displayed on the general timeline is more than 1,000 but can vary, probably based on undocumented backend details.
+
 Disclaimer: The notes on this page are provided in the hope that they are useful, but they are not official instructions and may contain mistakes. Your use of them is at your own risk.
 
 Copyright and Trademarks:
