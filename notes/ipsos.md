@@ -39,6 +39,7 @@ Sainsbury’s is a trademark of J Sainsbury PLC.
 Samsung is a registered trademark of Samsung.
 Skype is a trademark of Microsoft in the US (but not in Europe because it was too similar to Sky).
 Tesco is a trademark of Tesco Stores Limited.
+Uber Eats is a registered trademark of Uber Technologies, Inc.
 Uber is a trademark of Uber Technologies, Inc.
 Vodafone is a trademark of Vodafone Group Plc.
 Wi-Fi is a trademark of the Wi-Fi Alliance.
