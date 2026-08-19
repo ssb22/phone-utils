@@ -32,7 +32,7 @@ For inline **videos**:
 
 The error “Unable to share this video due to unspported format” (e.g. if trying to post a short video to Moments) probably means you need to [recode to h264](video.md).
 
-By comparison, [WhatsApp](whatsapp.md) usually compresses inline images to around 250k (with no option to see full size) and limits video to 16MiB (as of 2017; best sent from the mobile application), and Telegram Messenger scales down to max 1280 pixels per dimension and sends the result as an 87%-quality JPEG (unless uploaded as a file) but has a much more generous video limit.
+By comparison, [WhatsApp](whatsapp.md) usually compresses inline images to around 250k (with no option to see full size) and limits video to 16MiB (as of 2017; best sent from the mobile application), and Telegram Messenger (now restricted to 18+ in UK/EU/AU) scales down to max 1280 pixels per dimension and sends the result as an 87%-quality JPEG (unless uploaded as a file) but has a much more generous video limit.
 
 ## Audio recordings
 

@@ -75,7 +75,9 @@ WeChat’s dominance in China was perhaps assisted by the company’s good relat
 
 The network effect does not appear to be very much diminished by the need for their data to be sent through Chinese servers (which, apart from anything else, can be slow when you’re outside China), nor with the “vanishing contacts” issue or WeChat’s limited functionality on the desktop. At least its sound compression ratio is reasonable, and Version 7 made a [dark mode](https://ssb22.user.srcf.net/css/dark.html) available (although not on the desktop version) and improved the range of font sizes under Settings / General (Version 8 fixed some layout issues this caused on small screens).
 
-Sometimes they’ll accept an alternative installed alongside WeChat for use while they’re in the UK. My current recommendation is Telegram Messenger, which is run by a non-profit, can be set to larger fonts, has a good range of desktop clients, etc. But not everyone even understands what it *means* to install a different application. Some of the older generation I met evidently had it installed by the manufacturer, a shop, or a friend or relative, and don’t know what I mean by “install something else”. Additionally, some older devices (e.g. iOS 4.x) cannot run recent versions of many applications, so it would be necessary to find an old version and somehow ‘side-load’ it, or risk an OS replacement.
+Sometimes they’ll accept an alternative installed alongside WeChat for use while they’re in the UK. I used to recommend Telegram Messenger, run by a non-profit, can be set to larger fonts and had a good range of accessible desktop clients, but their terms changed to 18+ in UK/EU/AU as they struggle with safeguarding, so it’s no longer legally a drop-in replacement for families on WeChat, which has a lower age rating of 13+ like Signal (whose desktop version is a horrible Electron app and they’ve talked about pulling out of the UK), WhatsApp (UK-dominant but [sends your contact list to Facebook](https://ssb22.user.srcf.net/law/whatsapp.html)), Google Chat (not so bad if you don’t mind Google being able to read your messages) etc.
+
+But not everyone even understands what it *means* to install a different application. Some of the older generation I met evidently had it installed by the manufacturer, a shop, or a friend or relative, and don’t know what I mean by “install something else”. Additionally, some older devices (e.g. iOS 4.x) cannot run recent versions of many applications, so it would be necessary to find an old version and somehow ‘side-load’ it, or risk an OS replacement.
 
 ## Scams
 
@@ -89,6 +91,8 @@ Disclaimer: The notes on this page are provided in the hope that they are useful
 
 Copyright and Trademarks:
 All material © Silas S. Brown unless otherwise stated.
+Facebook is a trademark of Facebook, Inc.
+Google is a trademark of Google LLC.
 QR Code is the UK registered trademark of Denso Corporation.
 Samsung is a registered trademark of Samsung.
 Telegram is a trademark of Telegram Messenger LLP.
