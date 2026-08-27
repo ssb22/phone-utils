@@ -92,7 +92,7 @@ In 2024, WhatsApp linked UK users to a new “UK” version of their Privacy Pol
 
 > We require each of these users to have lawful rights to collect, use, and share your information before providing any information to us.
 
-This casts doubt on the legality of anyone in the UK using WhatsApp if that person happens to work or volunteer for any organisation or charity (including local community groups) to which the Data Protection Act 2018 applies (the UK’s implementation of the European GDPR, which was not cancelled at Brexit), since it would be necessary to obtain permission from all of their contacts to share such information, or else try to use WhatsApp without allowing it to read contacts at all (discussed below).
+This casts doubt on the legality of anyone in the UK using WhatsApp if that person happens to work or volunteer for any organisation or charity (including local community groups) affected by the UK’s implementation of GDPR, since it would be necessary to obtain permission from all of their contacts to share such information, or else try to use WhatsApp without allowing it to read contacts at all (discussed below).
 
 The 2024 UK privacy policy also has a section “How We Work With Other Meta Companies” which includes this sentence, still present in the 2026 version:
 
