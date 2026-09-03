@@ -7,7 +7,10 @@
 # MP3 in Downloads (with size guide) and Sends it (to Telegram, Discord
 # or whatever) so it can be played on iOS devices that lack OGG support
 
-# Silas S. Brown 2025 - public domain - no warranty
+# (c) Silas S. Brown 2025, License: Apache 2
+# (I did say public domain no warranty; moved to Apache 2 in
+# case you need to use this on a work phone and they want to
+# know I don't have a silly patent up my sleeve)
 
 # Needs termux-setup-storage and pkg-install vorbis-tools lame
 

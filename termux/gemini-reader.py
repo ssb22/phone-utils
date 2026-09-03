@@ -3,12 +3,17 @@
 """Android Termux script to read clipboard changes
 using Gemini TTS free-tier API key (can be more expressive
 than the onboard TTS)
-Silas S. Brown 2025 - public domain - no warranty
+
+(c) 2025-2026 Silas S. Brown, License: Apache 2
+
+(I did say public domain no warranty; moved to Apache 2 in
+case you need to use this on a work phone and they want to
+know I don't have a silly patent up my sleeve)
 
 To set up:
 pkg install python3 rust sox
 # ensure aaudio-sink is not commented out in /data/data/com.termux/files/usr/etc/pulse/default.pa
-pip install google-genai # takes time
+pip install google-genai # takes time; suggest pull down to see Termux status and enable Wake Lock while it's compiling its dependencies
 GEMINI_API_KEY=your_api_key_here python gemini-reader.py
 # or set os.environ['GEMINI_API_KEY'] after imports below
 
@@ -18,7 +23,7 @@ Can get "model overloaded" errors if Google servers are busy.
 from google import genai
 from google.genai import types
 import sys,os,tempfile,subprocess,wave,time
-os.system("pluseaudio --start &")
+os.system("pkill pulseaudio ; rm -r .config/pulse ; pulseaudio --start")
 client = genai.Client()
 last=None
 while True:
