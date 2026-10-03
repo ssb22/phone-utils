@@ -49,9 +49,9 @@ You need root access to a GNU/Linux machine with `rtmpdump`
 
 On a GNU/Linux machine with `~/.asoundrc` set to
 
-`pcm.teeraw { type empty
+`pcm.teeraw { type empty`
 
-slave.pcm "tee:default,'/tmp/out.raw',raw" }`
+`slave.pcm "tee:default,'/tmp/out.raw',raw" }`
 
 use `FLASH_ALSA_DEVICE=teeraw firefox` and (e.g.) `sox -t raw -r 44100 -c 2 -b 16 -s /tmp/out.raw /tmp/out.wav` then proceed with out.wav. (To reduce risk of `/tmp/out.raw` being overwritten, start `sox` *before* interacting with the browser to stop the stream.) This method was last tested in 2017 and is unlikely to work in the latest non-Flash browsers.
 
@@ -212,11 +212,11 @@ Zoom added a built-in video-share function to version 5.4.3 but only on Windows 
 
 If your PulseAudio distorts the video’s sound on the remote side due to bad resampling, you can correct this in `.config/pulse/daemon.conf`—Charles Z Henry suggests:
 
-`resample-method = speex-fixed-7
+`resample-method = speex-fixed-7`
 
-default-sample-rate = 48000
+`default-sample-rate = 48000`
 
-alternate-sample-rate = 44100`
+`alternate-sample-rate = 44100`
 
 —this might need a restart of your desktop session.
 
