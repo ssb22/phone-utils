@@ -108,7 +108,7 @@ To play the two videos on separate devices but time-synchronised over a local ne
 
 (press `v` to toggle subtitles or `f` to toggle full-screen; I’ve obfuscated the options that use technical terms which some viewers might misunderstand as a racist insult)
 
-To play the two videos on the same machine, one with sound only and sent to HDMI, the other with full-screen picture, and sound sent to Bluetooth, set the system to use PulseAudio (not PipeWire: Raspberry Pi OS 12 needs `sudo raspi-config` / Advanced / Audio to set it back to PulseAudio) and do:
+To play the two videos on the same machine, one with sound only and sent to HDMI, the other with full-screen picture, and sound sent to Bluetooth, on newer PipeWire-based systems use [mpv with my langmerge-player script](langmerge-player.sh); on older PulseAudio (e.g. Raspberry Pi OS 12 with `sudo raspi-config` / Advanced / Audio / PulseAudio) you can do:
 
 `mplayer -noconsolecontrols -vo null -udp-$'\x73\x6c\x61\x76e' -udp-seek-threshold 0.1 -ao pulse::alsa_output.platform-`(value from `pacmd list-sinks`)`.hdmi.hdmi-stereo video2.mp4 & mplayer -fs -nosub -udp-$'m\!x61s\x74\x65r' -ao pulse::bluez_sink.`(MAC address)`.a2dp_sink video1.mp4`
 
